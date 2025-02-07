@@ -13,10 +13,4 @@ A Power BI report showcasing the applied theme.
 ✅ Ensures **consistent branding** across reports.  
 ✅ Eliminates the need for repetitive formatting.  
 
-💡 Feel free to **clone, modify, and adapt** this template to fit your organization’s style. If you have suggestions, open an issue or submit a PR!  
-
-🚀 **Get started now:** [Insert repository link]  
-
----
-
-Let me know if you want any tweaks! 🚀
+💡 Feel free to **clone, modify, and adapt** this template to fit your organization’s style.
