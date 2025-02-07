@@ -1,0 +1,152 @@
+"tableEx": {
+    "*": {
+        "columnHeaders": [
+            {
+                "alignment": "Center",
+                "autoSizeColumnWidth": true,
+                "backColor": {
+                    "solid": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                "fontFamily": "Work Sans Light",
+                "fontSize": 11,
+                "fontColor": {
+                    "solid": {
+                        "color": "#404040"
+                    }
+                },
+                "bold": false,
+                "italic": false,
+                "underline": false,
+                "outlineColor": {
+                    "solid": {
+                        "color": "#F0F0F0"
+                    }
+                },
+                "outlineStyle": 1,
+                "outlineWeight": 1,
+                "wordWrap": false
+            }
+        ],
+        "general": [
+            {
+                "formatString": "0.0"
+            }
+        ],
+        "grid": [
+            {
+                "gridHorizontal": false,
+                "gridHorizontalColor": {
+                    "solid": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                "gridHorizontalWeight": 1,
+                "gridVertical": false,
+                "gridVerticalColor": {
+                    "solid": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                "gridVerticalWeight": 0,
+                "imageHeight": 50,
+                "imageWidth": 125,
+                "outlineColor": {
+                    "solid": {
+                        "color": "#F0F0F0"
+                    }
+                },
+                "outlineStyle": 1,
+                "outlineWeight": 1,
+                "rowPadding": 4,
+                "textSize": 10
+            }
+        ],
+        "values": [
+            {
+                "backColor": {
+                    "solid": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                "backColorPrimary": {
+                    "solid": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                "backColorSecondary": {
+                    "solid": {
+                        "color": "#f8f8f8"
+                    }
+                },
+                "fontColor": {
+                    "solid": {
+                        "color": "#404040"
+                    }
+                },
+                "fontColorPrimary": {
+                    "solid": {
+                        "color": "#404040"
+                    }
+                },
+                "fontColorSecondary": {
+                    "solid": {
+                        "color": "#404040"
+                    }
+                },
+                "fontFamily": "Work Sans Light",
+                "fontSize": 10,
+                "bold": false,
+                "italic": false,
+                "underline": false
+            }
+        ],
+        "total": [
+            {
+                "totals": true,
+                "backColor": {
+                    "solid": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                "fontColor": {
+                    "solid": {
+                        "color": "#404040"
+                    }
+                },
+                "fontFamily": "Work Sans Light",
+                "fontSize": 10.5,
+                "outlineColor": {
+                    "solid": {
+                        "color": "#F0F0F0"
+                    }
+                },
+                "outlineStyle": 1,
+                "outlineWeight": 1,
+                "bold": false,
+                "italic": false,
+                "underline": false
+            }
+        ],
+        "sparklines": [
+            {
+                "chartType": "line",
+                "dataColor": {
+                    "solid": {
+                        "color": "#333333"
+                    }
+                },
+                "strokeWidth": 2,
+                "markerColor": {
+                    "solid": {
+                        "color": "#333333"
+                    }
+                },
+                "markerShape": "circle",
+                "markerSize": 3,
+                "markers": 3
+            }
+        ]
+    }
+}

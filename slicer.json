@@ -1,0 +1,26 @@
+"slicer": {
+    "*": {
+        "*": [
+            {
+                "mode": "Dropdown"
+            }
+        ],
+        "selection": [
+            {
+                "selectAllCheckboxEnabled": true,
+                "singleSelect": false,
+                "strictSingleSelect": false
+            }
+        ],
+        "header": [
+            {
+                "show": true
+            }
+        ],
+        "items": [
+            {
+                "fontFamily": "Work Sans"
+            }
+        ]
+    }
+}

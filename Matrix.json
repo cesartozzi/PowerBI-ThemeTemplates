@@ -1,0 +1,184 @@
+"pivotTable": {
+    "*": {
+        "general": [
+            {
+                "responsive": true,
+                "keepLayerOrder": true
+            }
+        ],
+        "background": [
+            {
+                "show": true,
+                "color": {
+                    "solid": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                "transparency": 0
+            }
+        ],
+        "border": [
+            {
+                "width": 1,
+                "color": {
+                    "solid": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                "show": true,
+                "radius": 12
+            }
+        ],
+        "title": [
+            {
+                "show": true,
+                "fontColor": {
+                    "solid": {
+                        "color": "#404040"
+                    }
+                },
+                "background": {
+                    "solid": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                "alignment": "center"
+            }
+        ],
+        "stylePreset": [
+            {
+                "name": "Default"
+            }
+        ],
+        "grid": [
+            {
+                "gridVertical": false,
+                "gridHorizontal": false,
+                "rowPadding": 1,
+                "outlineColor": {
+                    "solid": {
+                        "color": "#32cdff"
+                    }
+                },
+                "outlineWeight": 1,
+                "textSize": 10,
+                "imageHeight": 100
+            }
+        ],
+        "columnHeaders": [
+            {
+                "fontColor": {
+                    "solid": {
+                        "color": "#252423"
+                    }
+                },
+                "backColor": {
+                    "solid": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                "outline": "Frame",
+                "autoSizeColumnWidth": false,
+                "fontFamily": "Work Sans",
+                "fontSize": 10,
+                "alignment": "Left",
+                "titleAlignment": "Left",
+                "urlIcon": false,
+                "wordWrap": false
+            }
+        ],
+        "rowHeaders": [
+            {
+                "fontColor": {
+                    "solid": {
+                        "color": "#252423"
+                    }
+                },
+                "backColor": {
+                    "solid": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                "outline": "Frame",
+                "stepped": true,
+                "steppedLayoutIndentation": 10,
+                "urlIcon": true,
+                "wordWrap": true,
+                "fontFamily": "Work Sans",
+                "fontSize": 10,
+                "alignment": "Left",
+                "showExpandCollapseButtons": true
+            }
+        ],
+        "values": [
+            {
+                "fontColorPrimary": {
+                    "solid": {
+                        "color": "#252423"
+                    }
+                },
+                "backColorPrimary": {
+                    "solid": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                "fontColorSecondary": {
+                    "solid": {
+                        "color": "#252423"
+                    }
+                },
+                "backColorSecondary": {
+                    "solid": {
+                        "color": "#EEEDED"
+                    }
+                },
+                "bandedRowHeaders": true,
+                "valuesOnRow": false,
+                "outline": "Frame",
+                "urlIcon": true,
+                "wordWrap": true,
+                "fontFamily": "Work Sans",
+                "fontSize": 10
+            }
+        ],
+        "subTotals": [
+            {
+                "rowSubtotals": true,
+                "columnSubtotals": true,
+                "fontColor": {
+                    "solid": {
+                        "color": "#332222"
+                    }
+                },
+                "fontFamily": "Work Sans",
+                "backColor": {
+                    "solid": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                "fontSize": 11,
+                "applyToHeaders": true,
+                "rowSubtotalsPosition": "Top",
+                "perRowLevel": true,
+                "perColumnLevel": true
+            }
+        ],
+        "total": [
+            {
+                "fontColor": {
+                    "solid": {
+                        "color": "#332222"
+                    }
+                },
+                "fontFamily": "Work Sans",
+                "backColor": {
+                    "solid": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                "applyToHeaders": true,
+                "fontSize": 12
+            }
+        ]
+    }
+}
